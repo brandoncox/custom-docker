@@ -1,5 +1,5 @@
 # custom-docker
-This repo contains a number of custom docker images to fulfill a number of specific use cases
+This repo contains a number of custom docker images to fulfill a set of specific use cases
 Use cases include:
 
   * Simple case: user wants a container with a Java compiler
